@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Sportgirl55/react-toDo.git/static/css/main.5f547cd6.chunk.css",
-    "main.js": "/Sportgirl55/react-toDo.git/static/js/main.2eb9743f.chunk.js",
-    "main.js.map": "/Sportgirl55/react-toDo.git/static/js/main.2eb9743f.chunk.js.map",
-    "runtime-main.js": "/Sportgirl55/react-toDo.git/static/js/runtime-main.3a237efb.js",
-    "runtime-main.js.map": "/Sportgirl55/react-toDo.git/static/js/runtime-main.3a237efb.js.map",
-    "static/js/2.bdee8ae7.chunk.js": "/Sportgirl55/react-toDo.git/static/js/2.bdee8ae7.chunk.js",
-    "static/js/2.bdee8ae7.chunk.js.map": "/Sportgirl55/react-toDo.git/static/js/2.bdee8ae7.chunk.js.map",
-    "index.html": "/Sportgirl55/react-toDo.git/index.html",
-    "static/css/main.5f547cd6.chunk.css.map": "/Sportgirl55/react-toDo.git/static/css/main.5f547cd6.chunk.css.map",
-    "static/js/2.bdee8ae7.chunk.js.LICENSE.txt": "/Sportgirl55/react-toDo.git/static/js/2.bdee8ae7.chunk.js.LICENSE.txt"
+    "main.css": "/react-todo/static/css/main.5f547cd6.chunk.css",
+    "main.js": "/react-todo/static/js/main.2eb9743f.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.2eb9743f.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.7aacd4f4.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.7aacd4f4.js.map",
+    "static/js/2.bdee8ae7.chunk.js": "/react-todo/static/js/2.bdee8ae7.chunk.js",
+    "static/js/2.bdee8ae7.chunk.js.map": "/react-todo/static/js/2.bdee8ae7.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "static/css/main.5f547cd6.chunk.css.map": "/react-todo/static/css/main.5f547cd6.chunk.css.map",
+    "static/js/2.bdee8ae7.chunk.js.LICENSE.txt": "/react-todo/static/js/2.bdee8ae7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a237efb.js",
+    "static/js/runtime-main.7aacd4f4.js",
     "static/js/2.bdee8ae7.chunk.js",
     "static/css/main.5f547cd6.chunk.css",
     "static/js/main.2eb9743f.chunk.js"
