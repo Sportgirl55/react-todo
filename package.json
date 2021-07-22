@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Sportgirl55/react-toDo.git",
+  "homepage": "https://github.com/Sportgirl55/react-toDo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
